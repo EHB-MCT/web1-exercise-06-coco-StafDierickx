@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+body {
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+
+.backgroundImg {
+    position: relative;
+    margin: auto;
+    width: 1200px;
+    height: 700px;
+    background-image: url("./images-coco/coco.jpg");
+}
+
+.floatRicht {
+    float: right;
+    margin-right: 30px;
+    margin-top: 30px;
+    width: 600px;
+    /* margin-left: auto;
+    margin-right: 0; */
+}
